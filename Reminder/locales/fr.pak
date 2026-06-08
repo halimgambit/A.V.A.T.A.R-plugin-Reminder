@@ -1,0 +1,7 @@
+{
+  "speech": {
+    "start": "C'est noté, je te rappellerai de $$ dans $$.",
+    "finish": "Rappel : tu devais $$ !",
+    "unknown": "Je n'ai pas compris dans combien de temps je dois te rappeler cela."
+  }
+}

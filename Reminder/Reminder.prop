@@ -1,0 +1,12 @@
+{
+	"modules": { 
+		"Reminder": {
+			"version": "1.0",
+			"name": "Reminder",
+			"rules": {
+				"setReminder": ["reminder","remind me"]
+			}
+		}
+	}
+}
+			
