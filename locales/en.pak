@@ -1,7 +1,0 @@
-{
-  speech: {
-    "start": "Noted, I’ll remind you of $$ in $$.",
-    "finish": "Reminder: you had to $$!",
-    "unknown": "I didn’t understand in how long I have to remind you of this."
-  }
-}
