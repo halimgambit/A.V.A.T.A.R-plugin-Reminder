@@ -7,7 +7,7 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 Commandes :
 
 - Rappel moi de partir dans une heure.
-- Rappel moi de d'appeler paul dans 15 minutes.
+- Rappel moi d'appeler paul dans 15 minutes.
 
 # Multi-room
 The Reminder plugin is fully multi-room.
