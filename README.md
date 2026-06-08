@@ -1,5 +1,5 @@
 # Reminder
-Creer des rappel vocal avec AVATAR
+Creer des rappels vocal avec AVATAR
 
 This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.
 
